@@ -1,0 +1,7 @@
+request
+sys
+textwrap3
+tabulate
+fontstyle
+datetime
+pyfiglet
