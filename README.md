@@ -13,6 +13,4 @@ Here's the screenshot (PS: it can do more than that 🙃):
 
 <img width="1094" alt="App Screenshot" src="https://user-images.githubusercontent.com/91587113/191537889-851009db-d91b-429a-bcfc-74e68a1deae3.png">
 
-### Clone The Repo:
-```git clone https://github.com/ahmedivy/Cricket-App-CLI```
 
